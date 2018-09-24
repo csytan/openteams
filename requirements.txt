@@ -1,0 +1,16 @@
+# pip3 install -r requirements.txt --user
+
+
+# https://aiohttp.readthedocs.io/en/stable/
+aiohttp
+
+
+# http://docs.python-requests.org/en/master/
+requests
+
+# https://tinydb.readthedocs.io/en/latest/index.html
+tinydb
+ujson
+
+# https://github.com/docopt/docopt
+docopt
